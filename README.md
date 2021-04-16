@@ -10,6 +10,12 @@ Key is default to "Shift+M".
 
 Map will only toggle while Tarkov is in focus.
 
+
+-----REQUIREMENTS-----
+
+You must install AutoIt3 , even if you are not building the source yourself.
+https://www.autoitscript.com/cgi-bin/getfile.pl?autoit3/autoit-v3-setup.exe
+
 Tarkov must be in Window Mode or Borderless Mode, for this to work properly.
 Tarkov must be open first before the map.
 Map will close if tarkov is closed, the script is exited, or the map .exe is closed.
